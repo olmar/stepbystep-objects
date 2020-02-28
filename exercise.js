@@ -36,7 +36,7 @@ Create a AddableExamResultSet constructor that takes no arguments, and inherits 
 
 It should also have the following function:
 
-addResult that takes a number as the argument, and adds this number to the result set. So:
+add() that takes a number as the argument, and adds this number to the result set. So:
 
 const set = new AddableExamResultSet();
 set.add(10);
