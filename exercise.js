@@ -7,7 +7,7 @@ Task 1
 
 Create a constructor ExamResultSet. It should take as it’s only argument an array of numbers that represent exam results.
 
-An ExamResultSet instance should have two functions:
+An ExamResultSet instance should have three functions:
 
 getAverage : no arguments, returns a number which is the average of all of the results in the result set.
 
